@@ -1,0 +1,11 @@
+.custom-toggle .navbar-toggler-icon svg {
+    fill: white;
+}
+
+.jumbotron {
+    padding-block: 6rem;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
